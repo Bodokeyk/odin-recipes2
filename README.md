@@ -1,1 +1,2 @@
 # odin-recipes2
+This is my second attempt on the first project in the Top program, it remember that its supposed to be like a website about my favorites foods? im not really sure, whatever, i just have to use correctly links, images and if im not wrong would be useful to use in a good way some website structure, also to commit early and often lol, gonna do that right now.
